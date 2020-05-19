@@ -10,12 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="120"
-   height="135"
-   viewBox="0 0 31.749993 35.718773"
+   height="155"
+   viewBox="0 0 31.749993 41.010433"
    version="1.1"
    id="svg3819"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="logo-05.svg">
+   sodipodi:docname="logo-04.svg">
   <defs
      id="defs3813" />
   <sodipodi:namedview
@@ -57,24 +57,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-261.28102)">
+     transform="translate(0,-255.98942)">
     <ellipse
        id="path3823"
-       cx="15.867947"
-       cy="275.11884"
+       cx="16.001581"
+       cy="269.90707"
        style="fill:#ffffff;fill-opacity:0;stroke:#008000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        rx="10.643435"
        ry="10.576618" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-opacity:1"
-       x="9.4074821"
-       y="279.12183"
+       x="9.5411167"
+       y="273.91006"
        id="text5244"><tspan
          sodipodi:role="line"
          id="tspan5242"
-         x="9.4074821"
-         y="279.12183"
+         x="9.5411167"
+         y="273.91006"
          style="fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:0.26458332;stroke-opacity:1">21</tspan></text>
     <text
        xml:space="preserve"
@@ -88,5 +88,12 @@
          x="1.1183089"
          y="289.49655"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26226625">knooppunt21.nl</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5277"
+       width="31.75"
+       height="41.010403"
+       x="-2.6645353e-15"
+       y="255.98943" />
   </g>
 </svg>

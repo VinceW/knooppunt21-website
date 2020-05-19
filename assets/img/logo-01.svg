@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 190 50">
+  <circle cx="130" cy="25" r="20" fill="white" stroke="green" stroke-width="2"></circle>
+  <text x="10" y="30" stroke="green" stroke-width="1">knooppunt</text>
+  <text x="160" y="30" stroke="green" stroke-width="1">.nl</text>
+  <text x="130" y="30" text-anchor="middle" stroke="green" stroke-width="2px">21</text>
+</svg>
